@@ -1,4 +1,4 @@
-# Importing Python Modules
+# Importing Python modules
 from PyPDF2 import PdfReader
 import pyttsx3
 
